@@ -1,0 +1,3 @@
+langchain-ollama
+faiss-cpu
+crewai
